@@ -1,36 +1,36 @@
 # 🍰 Bake With What You Have
 
-A modern, responsive web application that helps users discover cakes and desserts they can make using the ingredients they already have at home.
+A modern, responsive web application that helps users discover delicious cakes and desserts using the ingredients they already have at home.
 
-Instead of spending time searching through recipes, users simply select the ingredients available in their kitchen, and the app suggests matching recipes while highlighting any missing ingredients.
+Instead of spending time searching through countless recipes, users simply select the ingredients available in their kitchen, and the app instantly suggests desserts they can make.
 
-This project was inspired by my sister, who is passionate about baking and often spends a lot of time looking for recipes based on the ingredients she already has.
+This project was inspired by my sister, who is passionate about baking. She often had all the necessary ingredients at home but spent a lot of time searching for recipes. I wanted to build a simple tool that makes this process faster, easier, and more enjoyable.
 
 ---
 
 ## 🌟 Live Demo
 
-👉 **View Live Demo:**
-https://your-demo-link.com
+👉 https://roghayem.github.io/bake-with-what-you-have/
 
 ---
 
 ## 🖼️ Preview
 
-https://github.com/roghayem/bake-with-what-you-have/blob/main/assest/Bake-With-What-You-Have-07-12-2026_07_27_PM%20(1).png
+![Bake With What You Have](assest/Bake-With-What-You-Have-07-12-2026_07_27_PM%20\(1\).png)
 
 ---
 
 ## ✨ Features
 
-* 🍰 Find cake and dessert recipes based on available ingredients
-* 🥚 Select ingredients with an interactive interface
-* 📋 Display matching recipes
-* 📌 Show missing ingredients for each recipe
+* 🍰 Discover cake and dessert recipes based on available ingredients
+* 🥚 Interactive ingredient selection
+* 📋 Smart recipe suggestions
+* ❌ Display missing ingredients
 * 📖 View recipe details
 * ❤️ Save favorite recipes
-* 📱 Fully responsive for desktop, tablet, and mobile
-* 🎨 Clean, modern, and user-friendly interface
+* 📱 Fully responsive design
+* 🎨 Modern and clean user interface
+* ⚡ Smooth JavaScript interactions
 
 ---
 
@@ -54,7 +54,7 @@ Clone the repository:
 git clone https://github.com/roghayem/bake-with-what-you-have.git
 ```
 
-Go to the project folder:
+Navigate to the project:
 
 ```bash
 cd bake-with-what-you-have
@@ -68,11 +68,11 @@ Open `index.html` in your browser.
 
 ```text
 bake-with-what-you-have/
-
+│
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
+├── assest/
 │   ├── images/
 │   └── preview.png
 └── README.md
@@ -80,25 +80,25 @@ bake-with-what-you-have/
 
 ---
 
+## 💡 Inspiration
+
+My sister loves baking cakes and desserts.
+
+One thing I noticed was that she often spent a lot of time searching for recipes that matched the ingredients already available in our kitchen.
+
+As someone passionate about front-end development—and someone who loves eating her desserts—I decided to solve this real-world problem by building a web application that helps users quickly find recipes based on what they already have.
+
+---
+
 ## 🎯 Project Goals
 
-This project was created to improve my skills in:
+This project was built to improve my skills in:
 
 * Responsive Web Design
 * JavaScript DOM Manipulation
 * UI/UX Design
-* Building Useful Web Applications
-* Problem Solving Through Front-End Development
-
----
-
-## 💡 Inspiration
-
-The idea came from my sister, who loves baking cakes and desserts.
-
-She often has many ingredients at home but spends a lot of time searching for recipes she can actually make.
-
-I wanted to build a simple tool that makes this process faster and easier.
+* Problem Solving
+* Building Real-World Front-End Applications
 
 ---
 
@@ -112,4 +112,4 @@ GitHub: https://github.com/roghayem
 
 ## ⭐ Support
 
-If you like this project, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐ on GitHub. It really helps and motivates me to build more projects!

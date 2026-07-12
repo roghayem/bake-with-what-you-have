@@ -17,7 +17,7 @@ https://your-demo-link.com
 
 ## 🖼️ Preview
 
-(https://github.com/roghayem/bake-with-what-you-have/blob/main/assest/Bake-With-What-You-Have-07-12-2026_07_27_PM%20(1).png)
+https://github.com/roghayem/bake-with-what-you-have/blob/main/assest/Bake-With-What-You-Have-07-12-2026_07_27_PM%20(1).png
 
 ---
 
